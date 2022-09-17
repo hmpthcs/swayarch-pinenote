@@ -1,0 +1,13 @@
+
+
+WAYBAR FILES
+configs: 
+scripts: 
+
+ICONS
+download phosphor icons, place in /usr/share/icons/phosphoricons/
+  # bsdtar xvf phosphor-icons.zip
+
+LAVALAUNCHER
+configs: lavahidden; lavamain; lavacontainer
+scripts: /usr/local/bin/lavakill.sh 
